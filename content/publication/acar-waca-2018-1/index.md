@@ -1,0 +1,51 @@
+---
+title: 'WACA: Wearable-Assisted Continuous Authentication'
+authors:
+- A. Acar
+- H. Aksu
+- A. S. Uluagac
+- K. Akkaya
+date: '2018-05-01'
+publishDate: '2023-11-24T10:38:58.494332Z'
+publication_types:
+- paper-conference
+publication: '*2018 IEEE Security and Privacy Workshops (SPW)*'
+doi: 10.1109/SPW.2018.00042
+abstract: One-time login process in conventional authentication systems does not guarantee
+  that the identified user is the actual user throughout the session. However, it
+  is necessary to re-verify the user identity periodically throughout a login session,
+  which is lacking in existing one-time login systems. In this paper, we introduce
+  a usable and reliable Wearable-Assisted Continuous Authentication (WACA), which
+  relies on the sensor-based keystroke dynamics and the authentication data is acquired
+  through the built-in sensors of a wearable (e.g., smartwatch) while the user is
+  typing. The acquired data is periodically and transparently compared with the registered
+  profile of the initially logged-in user with one-way classifiers. With this, WACA
+  continuously ensures that the current user is the user who logged in initially.
+  We implemented the WACA framework and evaluated its performance on real devices
+  with real users. The empirical evaluation of WACA reveals that WACA is feasible
+  and its error rate is as low as 1% with 30 seconds of processing time and 2 - 3%
+  for 20 seconds. The computational overhead is minimal. Furthermore, WACA is capable
+  of identifying insider threats with very high accuracy (99.2%).
+tags:
+- Feature extraction
+- biometrics
+- Biometrics (access control)
+- Authentication
+- authentication data
+- authentication systems
+- authorisation
+- Communication system security
+- continuous authentication
+- keystroke dynamics
+- login session
+- one-time login process
+- one-time login systems
+- Password
+- Reliability
+- sensor-based keystroke dynamics
+- typing
+- user identity
+- WACA framework
+- wearable-assisted continuous authentication
+- wearables
+---

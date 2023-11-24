@@ -1,0 +1,37 @@
+---
+title: 'ConvXGB: A new deep learning model for classification problems based on CNN
+  and XGBoost'
+authors:
+- Setthanun Thongsuwan
+- Saichon Jaiyen
+- Anantachai Padcharoen
+- Praveen Agarwal
+date: '2021-02-01'
+publishDate: '2023-11-24T10:38:59.032262Z'
+publication_types:
+- article-journal
+doi: 10.1016/j.net.2020.04.008
+abstract: We describe a new deep learning model - Convolutional eXtreme Gradient Boosting
+  (ConvXGB) for classification problems based on convolutional neural nets and Chen
+  et al.’s XGBoost. As well as image data, ConvXGB also supports the general classification
+  problems, with a data preprocessing module. ConvXGB consists of several stacked
+  convolutional layers to learn the features of the input and is able to learn features
+  automatically, followed by XGBoost in the last layer for predicting the class labels.
+  The ConvXGB model is simplified by reducing the number of parameters under appropriate
+  conditions, since it is not necessary re-adjust the weight values in a back propagation
+  cycle. Experiments on several data sets from UCL Repository, including images and
+  general data sets, showed that our model handled the classification problems, for
+  all the tested data sets, slightly better than CNN and XGBoost alone and was sometimes
+  significantly better.
+tags:
+- Machine learning
+- Deep learning
+- Classification algorithms
+- Convolutional neural network (CNN)
+- Extreme gradient boosting
+- Pattern recognition
+- XGBoost
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1738573319308587
+---

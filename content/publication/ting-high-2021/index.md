@@ -1,0 +1,46 @@
+---
+title: High accuracy blood glucose monitoring based on ECG signals
+authors:
+- L. I. Ting
+- Y. E. Song
+- L. I. Jing-zhen
+- M. A. Jing-jing
+- L. U. Yao-peng
+- Hong Pei-tao
+- N. I. E. Ze-dong
+date: '2021-09-18'
+publishDate: '2023-11-24T10:38:59.198867Z'
+publication_types:
+- article-journal
+doi: 10.13374/j.issn2095-9389.2021.01.12.009
+abstract: Continuous glucose monitoring is important in the management of diabetes.
+  According to statistics, diabetes is the third chronic non-infectious disease that
+  seriously endangers people's health, followed by tumor as well as cardiovascular
+  and cerebrovascular diseases. In 2019, globally, there were a total of 460 million
+  diabetics aged 20–79 years, which accounted for 9.1% of the total population in
+  this cohort. Each figure is projected to increase to 592 million and by 10.1% respectively
+  by 2035. Currently, the methods of blood glucose monitoring can be divided into
+  invasive, minimally invasive, and noninvasive. The main methods for blood glucose
+  monitoring include irregular sampling of fingertip blood or consecutive measurement
+  of interstitial fluid glucose based on implantable sensors. However, these methods
+  have some limitations, which include pain sensation, high cost, short service life,
+  and susceptibility. Patients need to measure their blood glucose frequently. Invasive
+  and minimally invasive monitoring will cause physical and psychological pain. Therefore,
+  noninvasive monitoring is one of the most promising techniques for continuous monitoring
+  of blood glucose, and it has a broad market prospect. In this study, the electrocardiogram
+  (ECG signals) were used to achieve the noninvasive monitoring of blood glucose levels.
+  First, 756160 ECG periodic signals of 12 volunteers for 60 d were obtained from
+  the experiment. Second, the ECG signals were preprocessed using an infinite impulse
+  response filter. Furthermore, a method combining convolutional neural networks and
+  long short-term memory networks (CNN-LSTM) was proposed for blood glucose monitoring.
+  In Addition, two modeling methods (individual modeling and group modeling) were
+  investigated in this study. The results show that the precision of blood glucose
+  monitoring under the condition of individual and group modeling is 80% and 88%,
+  respectively. The F1-score of the group modeling can reach 0.95, 0.88, 0.91, 0.85,
+  0.92, 0.88, 0.86, 0.86, 0.87, and 0.86. Therefore, this study indicates that the
+  proposed method based on ECG signals can provide powerful theoretical support and
+  technical guidance for real-time and accurate blood glucose monitoring.
+links:
+- name: URL
+  url: http://cje.ustb.edu.cn/en/article/doi/10.13374/j.issn2095-9389.2021.01.12.009
+---

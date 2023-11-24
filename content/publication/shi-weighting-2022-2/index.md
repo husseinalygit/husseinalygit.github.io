@@ -1,0 +1,37 @@
+---
+title: Weighting and pruning based ensemble deep random vector functional link network
+  for tabular data classification
+authors:
+- Qiushi Shi
+- Minghui Hu
+- Ponnuthurai Nagaratnam Suganthan
+- Rakesh Katuwal
+date: '2022-12-01'
+publishDate: '2023-11-24T10:39:00.207934Z'
+publication_types:
+- article-journal
+doi: 10.1016/j.patcog.2022.108879
+abstract: In this paper, we first integrate normalization to the Ensemble Deep Random
+  Vector Functional Link network (edRVFL). This re-normalization step can help the
+  network avoid divergence of the hidden features. Then, we propose novel variants
+  of the edRVFL network. Weighted edRVFL (WedRVFL) uses weighting methods to give
+  training samples different weights in different layers according to how the samples
+  were classified confidently in the previous layer thereby increasing the ensemble’s
+  diversity and accuracy. Furthermore, a pruning-based edRVFL (PedRVFL) has also been
+  proposed. We prune some inferior neurons based on their importance for classification
+  before generating the next hidden layer. Through this method, we ensure that the
+  randomly generated inferior features will not propagate to deeper layers. Subsequently,
+  the combination of weighting and pruning, called Weighting and Pruning based Ensemble
+  Deep Random Vector Functional Link Network (WPedRVFL), is proposed. We compare their
+  performances with other state-of-the-art classification methods on 24 tabular UCI
+  classification datasets. The experimental results illustrate the superior performance
+  of our proposed methods.
+tags:
+- Ensemble deep random vector functional link (edRVFL)
+- Pruning
+- UCI classification datasets
+- Weighting methods
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0031320322003600
+---

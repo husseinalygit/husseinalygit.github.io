@@ -1,0 +1,88 @@
+---
+title: 'Pain-Free Blood Glucose Monitoring Using Wearable Sensors: Recent Advancements
+  and Future Prospects'
+authors:
+- Sarah Ali Siddiqui
+- Yuan Zhang
+- Jaime Lloret
+- Houbing Song
+- Zoran Obradovic
+date: '2018-01-01'
+publishDate: '2023-11-24T10:38:57.650150Z'
+publication_types:
+- article-journal
+doi: 10.1109/RBME.2018.2822301
+abstract: 'Keeping track of blood glucose levels non-invasively is now possible due
+  to diverse breakthroughs in wearable sensors technology coupled with advanced biomedical
+  signal processing. However, each user might have different requirements and priorities
+  when it comes to selecting a self-monitoring solution. After extensive research
+  and careful selection, we have presented a comprehensive survey on noninvasive/pain-free
+  blood glucose monitoring methods from the recent five years (2012-2016). Several
+  techniques, from bioinformatics, computer science, chemical engineering, microwave
+  technology, etc., are discussed in order to cover a wide variety of solutions available
+  for different scales and preferences. We categorize the noninvasive techniques into
+  nonsample- and sample-based techniques, which we further grouped into optical, nonoptical,
+  intermittent, and continuous. The devices manufactured or being manufactured for
+  noninvasive monitoring are also compared in this paper. These techniques are then
+  analyzed based on certain constraints, which include time efficiency, comfort, cost,
+  portability, power consumption, etc., a user might experience. Recalibration, time,
+  and power efficiency are the biggest challenges that require further research in
+  order to satisfy a large number of users. In order to solve these challenges, artificial
+  intelligence (AI) has been employed by many researchers. AI-based estimation and
+  decision models hold the future of noninvasive glucose monitoring in terms of accuracy,
+  cost effectiveness, portability, efficiency, etc. The significance of this paper
+  is twofold: first, to bridge the gap between IT and medical field; and second, to
+  bridge the gap between end users and the solutions (hardware and software).'
+tags:
+- Blood Glucose
+- Humans
+- Blood Glucose Self-Monitoring
+- machine learning
+- Wearable Electronic Devices
+- advanced biomedical signal processing
+- AI-based estimation
+- artificial intelligence
+- bio-optics
+- biochemistry
+- bioinformatics
+- biomedical measurement
+- Biomedical monitoring
+- Biomedical optical imaging
+- blood
+- Blood
+- blood glucose levels
+- Blood glucose monitoring
+- calibration
+- chemical engineering„ computer science
+- cost effectiveness
+- decision models
+- Diabetes
+- diseases
+- IT field
+- medical field
+- medical signal processing
+- microwave technology
+- Monitoring
+- Monitoring
+- Ambulatory
+- noninvasive pain-free blood glucose monitoring
+- noninvasive techniques
+- nonoptical technique
+- nonsample-based techniques
+- optical technique
+- patient monitoring
+- portability
+- power consumption
+- power efficiency
+- recalibration
+- sample-based techniques
+- self-monitoring solution
+- Signal Processing
+- Computer-Assisted
+- Spectroscopy
+- Sugar
+- time efficiency
+- wearable sensor
+- wearable sensors technology
+- to-read
+---
