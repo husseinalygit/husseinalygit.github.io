@@ -25,7 +25,7 @@ organizations:
     url: https://www.qu.edu.qa/sites/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experienced AI developer and researcher specializing in cutting-edge machine learning and deep learning techniques, with a track record of successful applications in diverse domains, including biomedical, computer security, power systems, and pioneering new AI model architectures.
+bio: Experienced AI developer and researcher specializing in cutting-edge machine learning and deep learning techniques
 
 # Interests to show in About widget
 interests:
@@ -119,5 +119,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+ Experienced AI developer and researcher specializing in cutting-edge machine learning and deep learning techniques, with a track record of successful applications in diverse domains, including biomedical, computer security, power systems, and pioneering new AI model architectures.
