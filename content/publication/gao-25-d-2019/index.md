@@ -1,0 +1,29 @@
+---
+title: 2.5D Visual Sound
+authors:
+- Ruohan Gao
+- Kristen Grauman
+date: '2019-04-09'
+publishDate: '2023-11-24T10:38:57.827239Z'
+publication_types:
+- article-journal
+abstract: 'Binaural audio provides a listener with 3D sound sensation, allowing a
+  rich perceptual experience of the scene. However, binaural recordings are scarcely
+  available and require nontrivial expertise and equipment to obtain. We propose to
+  convert common monaural audio into binaural audio by leveraging video. The key idea
+  is that visual frames reveal significant spatial cues that, while explicitly lacking
+  in the accompanying single-channel audio, are strongly linked to it. Our multi-modal
+  approach recovers this link from unlabeled video. We devise a deep convolutional
+  neural network that learns to decode the monaural (single-channel) soundtrack into
+  its binaural counterpart by injecting visual information about object and scene
+  configurations. We call the resulting output 2.5D visual sound---the visual stream
+  helps \"lift\" the flat single channel audio into spatialized sound. In addition
+  to sound generation, we show the self-supervised representation learned by our network
+  benefits audio-visual source separation. Our video results: http://vision.cs.utexas.edu/projects/2.5D_visual_sound/'
+tags:
+- to-read
+- Computer Science - Computer Vision and Pattern Recognition
+links:
+- name: URL
+  url: http://arxiv.org/abs/1812.04204
+---

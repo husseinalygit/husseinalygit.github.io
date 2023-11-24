@@ -1,0 +1,14 @@
+@inproceedings{nasr_adversary_2021,
+ abstract = {Differentially private (DP) machine learning allows us to train models on private data while limiting data leakage. DP formalizes this data leakage through a cryptographic game, where an adversary must predict if a model was trained on a dataset D, or a dataset D′ that differs in just one example. If observing the training algorithm does not meaningfully increase the adversary's odds of successfully guessing which dataset the model was trained on, then the algorithm is said to be differentially private. Hence, the purpose of privacy analysis is to upper bound the probability that any adversary could successfully guess which dataset the model was trained on.In our paper, we instantiate this hypothetical adversary in order to establish lower bounds on the probability that this distinguishing game can be won. We use this adversary to evaluate the importance of the adversary capabilities allowed in the privacy analysis of DP training algorithms.For DP-SGD, the most common method for training neural networks with differential privacy, our lower bounds are tight and match the theoretical upper bound. This implies that in order to prove better upper bounds, it will be necessary to make use of additional assumptions. Fortunately, we find that our attacks are significantly weaker when additional (realistic) restrictions are put in place on the adversary's capabilities. Thus, in the practical setting common to many real-world deployments, there is a gap between our lower bounds and the upper bounds provided by the analysis: differential privacy is conservative and adversaries may not be able to leak as much information as suggested by the theoretical bound.},
+ author = {Nasr, Milad and Songi, Shuang and Thakurta, Abhradeep and Papernot, Nicolas and Carlin, Nicholas},
+ booktitle = {2021 IEEE Symposium on Security and Privacy (SP)},
+ date = {2021-05},
+ doi = {10.1109/SP40001.2021.00069},
+ eventtitle = {2021 IEEE Symposium on Security and Privacy (SP)},
+ file = {IEEE Xplore Abstract Record:D\:\\Zetero\\storage\\EBCHGHIQ\\9519424.html:text/html;Nasr et al_2021_Adversary Instantiation.pdf:D\:\\Zetero\\storage\\UJ3DVK3R\\Nasr et al_2021_Adversary Instantiation.pdf:application/pdf},
+ keywords = {Training, Deep learning, Games, Privacy, deep-learning, Differential privacy, Differentially-private, Differentially-private-(DP)-machine-learning, DP-SGD, machine-learning, membership-inference, Toxicology, Upper bound},
+ note = {ISSN: 2375-1207},
+ pages = {866--882},
+ shorttitle = {Adversary Instantiation},
+ title = {Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning}
+}

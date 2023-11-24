@@ -1,0 +1,43 @@
+---
+title: On the Possibility of Predicting Glycaemia ‘On the Fly’ with Constrained IoT
+  Devices in Type 1 Diabetes Mellitus Patients.
+authors:
+- ' Rodríguez-Rodríguez'
+- ' Rodríguez'
+- ' Chatzigiannakis'
+- Zamora Izquierdo
+date: '2019-10-18'
+publishDate: '2023-11-24T10:38:57.504227Z'
+publication_types:
+- article-journal
+doi: 10.3390/s19204538
+abstract: 'Type 1 Diabetes Mellitus (DM1) patients are used to checking their blood
+  glucose levels several times per day through finger sticks and, by subjectively
+  handling this information, to try to predict their future glycaemia in order to
+  choose a proper strategy to keep their glucose levels under control, in terms of
+  insulin dosages and other factors. However, recent Internet of Things (IoT) devices
+  and novel biosensors have allowed the continuous collection of the value of the
+  glucose level by means of Continuous Glucose Monitoring (CGM) so that, with the
+  proper Machine Learning (ML) algorithms, glucose evolution can be modeled, thus
+  permitting a forecast of this variable. On the other hand, glycaemia dynamics require
+  that such a model be user-centric and should be recalculated continuously in order
+  to reflect the exact status of the patient, i.e., an ‘on-the-fly’ approach. In order
+  to avoid, for example, the risk of being disconnected from the Internet, it would
+  be ideal if this task could be performed locally in constrained devices like smartphones,
+  but this would only be feasible if the execution times were fast enough. Therefore,
+  in order to analyze if such a possibility is viable or not, an extensive, passive,
+  CGM study has been carried out with 25 DM1 patients in order to build a solid dataset.
+  Then, some well-known univariate algorithms have been executed in a desktop computer
+  (as a reference) and two constrained devices: a smartphone and a Raspberry Pi, taking
+  into account only past glycaemia data to forecast glucose levels. The results indicate
+  that it is possible to forecast, in a smartphone, a 15-min horizon with a Root Mean
+  Squared Error (RMSE) of 11.65 mg/dL in just 16.15 s, employing a 10-min sampling
+  of the past 6 h of data and the Random Forest algorithm. With the Raspberry Pi,
+  the computational effort increases to 56.49 s assuming the previously mentioned
+  parameters, but this can be improved to 34.89 s if Support Vector Machines are applied,
+  achieving in this case an RMSE of 19.90 mg/dL. Thus, this paper concludes that local
+  on-the-fly forecasting of glycaemia would be affordable with constrained devices.'
+links:
+- name: URL
+  url: https://www.mdpi.com/1424-8220/19/20/4538
+---

@@ -1,0 +1,45 @@
+---
+title: Leveraging Jamming to Help Drones Complete Their Mission
+authors:
+- P. Tedeschi
+- G. Oligeri
+- R. Di Pietro
+date: '2020-01-01'
+publishDate: '2023-11-24T10:38:58.284571Z'
+publication_types:
+- article-journal
+doi: 10.1109/ACCESS.2019.2963105
+abstract: 'We propose JAM-ME, an autonomous jamming-assisted navigation system that
+  allows a drone to accomplish its mission even in the presence of an anti-drone jamming
+  protection system. In this contribution, we review the current state-of-the-art
+  highlighting how current solutions to respond to drones are completely ineffective
+  against JAM-ME. In particular, we introduce our solution and its theoretical framework,
+  and later we relax a few constraints of the baseline model (adding wind drift, and
+  allowing the target to be randomly placed within the jammed area). Moreover, we
+  run extensive simulations that do support our findings: even under the combined
+  action of jamming and wind drift, the drone can reach a target randomly deployed
+  in the jamming area-any other drone, under the same conditions, would have simply
+  failed. As per the overhead, under very conservative assumptions, JAM-ME experiences
+  an average overhead of 70%; however, note that such overhead can be reduced by at
+  least a tenfold factor in practical settings-discussed in the paper. Finally, we
+  highlight the intrinsic limitations of our solution, potential countermeasures,
+  and new jamming strategies that can pave the way to further research.'
+tags:
+- Sensors
+- aircraft navigation
+- anti-drone jamming protection system
+- autonomous aerial vehicles
+- autonomous jamming-assisted navigation system
+- Drones
+- global positioning system
+- Global Positioning System
+- JAM-ME
+- jamming
+- Jamming
+- jamming strategies
+- passive homing systems
+- Radio transmitters
+- Receivers
+- Safety
+- UAV security
+---

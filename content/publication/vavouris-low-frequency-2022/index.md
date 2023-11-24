@@ -1,0 +1,43 @@
+---
+title: 'Low-Frequency Non-Intrusive Load Monitoring of Electric Vehicles in Houses
+  with Solar Generation: Generalisability and Transferability'
+authors:
+- Apostolos Vavouris
+- Benjamin Garside
+- Lina Stankovic
+- Vladimir Stankovic
+date: '2022-01-01'
+publishDate: '2023-11-24T10:39:02.179082Z'
+publication_types:
+- article-journal
+doi: 10.3390/en15062200
+abstract: Electrification of transportation is gaining traction as a viable alternative
+  to vehicles that use fossil-fuelled internal combustion engines, which are responsible
+  for a major part of carbon dioxide emissions. This global turn towards electrification
+  of transportation is leading to an exponential energy and power demand, especially
+  during late-afternoon and early-evening hours, that can lead to great challenges
+  that electricity grids need to face. Therefore, accurate estimation of Electric
+  Vehicle (EV) charging loads and time of use is of utmost importance for different
+  participants in the electricity markets. In this paper, a scalable methodology for
+  detecting, from smart meter data, household EV charging events and their load consumption
+  with robust evaluation, is proposed. This is achieved via a classifier based on
+  Random Decision Forests (RF) with load reconstruction via novel post-processing
+  and a regression approach based on sequence-to-subsequence Deep Neural Network (DNN)
+  with conditional Generative Adversarial Network (GAN). Emphasis is placed on the
+  generalisability of the approaches over similar houses and cross-domain transferability
+  to different geographical regions and different EV charging profiles, as this is
+  a requirement of any real-case scenario. Lastly, the effectiveness of different
+  performance and generalisation loss metrics is discussed. Both the RF classifier
+  with load reconstruction and the DNN, based on the sequence-to-subsequence model,
+  can accurately estimate the energy consumption of EV charging events in unseen houses
+  at scale solely from household aggregate smart meter measurements at 1–15 min resolutions.
+tags:
+- transfer learning
+- deep neural networks
+- non-intrusive load monitoring (NILM)
+- electric vehicles (EVs)
+- energy dissagregation
+links:
+- name: URL
+  url: https://www.mdpi.com/1996-1073/15/6/2200
+---

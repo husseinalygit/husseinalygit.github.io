@@ -1,0 +1,38 @@
+---
+title: Performance comparison of intrusion detection systems and application of machine
+  learning to Snort system
+authors:
+- Syed Ali Raza Shah
+- Biju Issac
+date: '2018-03-01'
+publishDate: '2023-11-24T10:38:58.463810Z'
+publication_types:
+- article-journal
+doi: 10.1016/j.future.2017.10.016
+abstract: This study investigates the performance of two open source intrusion detection
+  systems (IDSs) namely Snort and Suricata for accurately detecting the malicious
+  traffic on computer networks. Snort and Suricata were installed on two different
+  but identical computers and the performance was evaluated at 10 Gbps network speed.
+  It was noted that Suricata could process a higher speed of network traffic than
+  Snort with lower packet drop rate but it consumed higher computational resources.
+  Snort had higher detection accuracy and was thus selected for further experiments.
+  It was observed that the Snort triggered a high rate of false positive alarms. To
+  solve this problem a Snort adaptive plug-in was developed. To select the best performing
+  algorithm for Snort adaptive plug-in, an empirical study was carried out with different
+  learning algorithms and Support Vector Machine (SVM) was selected. A hybrid version
+  of SVM and Fuzzy logic produced a better detection accuracy. But the best result
+  was achieved using an optimised SVM with firefly algorithm with FPR (false positive
+  rate) as 8.6% and FNR (false negative rate) as 2.2%, which is a good result. The
+  novelty of this work is the performance comparison of two IDSs at 10 Gbps and the
+  application of hybrid and optimised machine learning algorithms to Snort.
+tags:
+- Machine learning
+- Support Vector Machine
+- Intrusion detection
+- Fuzzy Logic
+- Performance comparison
+- Snort and Suricata
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167739X17323178
+---
