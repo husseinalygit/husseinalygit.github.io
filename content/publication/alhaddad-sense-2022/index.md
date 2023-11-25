@@ -3,7 +3,7 @@ title: 'Sense and learn: recent advances in wearable sensing and machine learnin
   for blood glucose monitoring and trend-detection'
 authors:
 - Ahmad Yaser Alhaddad
-- **Hussein Aly**
+- Hussein Aly
 - Hoda Gad
 - Abdulaziz Al-Ali
 - Kishor Kumar Sadasivuni
