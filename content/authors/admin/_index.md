@@ -122,7 +122,11 @@ social:
 highlight_name: true
 ---
 
-Hello there! 
-I am an AI Research Assistant at Qatar University, actively contributing to multiple Qatar National Research Fund (QNRF)-funded projects. My current research focus centers on the analysis of privacy and security in AI models. In previous projects, I explored the Detection of hypoglycemic events from medical IoT devices using AI and forecasted Covid-19 spread in Qatar concerning various lockdown measures.
-I earned my master's degree in cybersecurity from Hamad Bin Khalifa University (HBKU), supervised by Prof. Roberto di Pietro. My thesis involved utilizing AI models to design a continuous authentication scheme using PPG signals. Furthermore, my bachelor's degree from Qatar University included a senior project supervised by Dr. Abdulkarim Erradi, focusing on leveraging crowd sourcing to enhance Qatar's transportation during the 2022 World Cup.
-If you are interested in more information, you can check out my C.V. Or we can set up a meeting to have more in depth discussion. 
+Hello there!\
+
+I am an AI Research Assistant at [Qatar University](https://www.qu.edu.qa/sites/), actively contributing to multiple Qatar National Research Fund (QNRF)-funded projects. My current research focus centers on the analysis of privacy and security in AI models. In previous projects, I explored the detection of hypoglycemic events from medical IoT devices using AI. Also in a previous project I worked in forecasted Covid-19 spread in Qatar and analysing the effect of various lockdown measures on the virus spread.\
+
+I earned my master's degree in cybersecurity from [Hamad Bin Khalifa University](https://www.hbku.edu.qa/en) (HBKU), supervised by [Prof. Roberto di Pietro](https://scholar.google.com/citations?user=Io9QeG0AAAAJ). My thesis involved utilizing AI models to design a continuous authentication scheme using PPG signals. Furthermore, my bachelor's degree from Qatar University included a senior project supervised by Dr. [Abdulkarim Erradi](http://qufaculty.qu.edu.qa/erradi/), focusing on leveraging crowd sourcing to enhance Qatar's transportation during the 2022 World Cup.\
+
+If you are interested in more information, you can check out my C.V. Or we can set up a meeting to have more in depth discussion. \
+
