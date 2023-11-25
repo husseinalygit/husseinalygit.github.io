@@ -4,7 +4,7 @@ title: 'PulseOblivion: An Effective Session-Based Continuous Authentication Sche
 authors:
 - Hussein A Aly
 - Roberto Di Pietro
-date: '2023-01-01'
+date: '2023-02-11'
 publishDate: '2023-11-24T11:33:23.957529Z'
 publication_types:
 - article-journal
