@@ -23,6 +23,9 @@ role: AI Research Assistant
 organizations:
   - name: Qatar University
     url: https://www.qu.edu.qa/sites/
+  - name: Kindi Center For Computing Research 
+    url: https://kindi.qu.edu.qa/sites/en_US/research/kindi
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Experienced AI developer and researcher specializing in cutting-edge machine learning and deep learning techniques
@@ -92,22 +95,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mailto:hussein.aly210@gmail.com
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Cr3RJHcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/husseinalygit
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hussein-aly-674447155/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,4 +122,7 @@ social:
 highlight_name: true
 ---
 
- Experienced AI developer and researcher specializing in cutting-edge machine learning and deep learning techniques, with a track record of successful applications in diverse domains, including biomedical, computer security, power systems, and pioneering new AI model architectures.
+Hello there! 
+I am an AI Research Assistant at Qatar University, actively contributing to multiple Qatar National Research Fund (QNRF)-funded projects. My current research focus centers on the analysis of privacy and security in AI models. In previous projects, I explored the Detection of hypoglycemic events from medical IoT devices using AI and forecasted Covid-19 spread in Qatar concerning various lockdown measures.
+I earned my master's degree in cybersecurity from Hamad Bin Khalifa University (HBKU), supervised by Prof. Roberto di Pietro. My thesis involved utilizing AI models to design a continuous authentication scheme using PPG signals. Furthermore, my bachelor's degree from Qatar University included a senior project supervised by Dr. Abdulkarim Erradi, focusing on leveraging crowd sourcing to enhance Qatar's transportation during the 2022 World Cup.
+If you are interested in more information, you can check out my C.V. Or we can set up a meeting to have more in depth discussion. 
